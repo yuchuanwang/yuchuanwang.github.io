@@ -6,3 +6,9 @@ keyword: "性能优化, CPU缓存, 高性能"
 header-img: img/avatar.jpg
 email: yuchuan.wang@gmail.com
 
+plugins: ["jekyll-toc"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
