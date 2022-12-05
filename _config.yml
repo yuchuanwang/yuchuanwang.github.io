@@ -11,6 +11,3 @@ nav:
   link: /
 - name: About
   link: /about.html
-<nav>
-  <a href="abc.com">ABC</a>
-</nav>
