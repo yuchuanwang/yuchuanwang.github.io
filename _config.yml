@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
-title: Yuchuan Wang for Coding
-SEOTitle: 王玉川的代码笔记与实验
+title: 编程小记
 description: 记录记录
-keyword: "性能优化, CPU缓存, 高性能"
+keyword: "性能优化 CPU缓存 高性能 perf ebpf bcc"
 logo: /assets/img/avatar.jpg
 email: yuchuan.wang@gmail.com
 show_downloads: false
