@@ -11,6 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
   </head>
   <body>
     <div class="wrapper">
@@ -22,30 +23,25 @@
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-          <br/>
-          <hr/>
-          <br/>
-          <ul style="list-style-type: none">
-             <li><a href="mailto:yuchuan.wang@gmail.com">Email</a></li>
-             <li><a href="https://github.com/yuchuanwang">Github</a></li>
-          </ul>
-          <br>
-
-          {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-          {% endif %}
-
-          {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-          {% endif %}
-
         </header>
+
+        <br/>
+        <hr/>
+        <br/>
+
         <section>
+          <div>
+            <ul class="fa-ul">
+              <li><a href="mailto:yuchuan.wang@gmail.com"><span class="fa-li"><i class="fas fa-check-square"></i></span>&nbsp;Email</a></li>
+              <li><a href="https://github.com/yuchuanwang"><span class="fa-li"><i class="fas fa-check-square"></i></span>&nbsp;Github</a></li>
+           </ul>
+           <br>
+          </div>
 
         {{ content }}
 
         </section>
+
         <footer>
           {% if site.github.is_project_page %}
           <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
