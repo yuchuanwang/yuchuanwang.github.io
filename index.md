@@ -6,9 +6,9 @@
 
    - [性能分析与测量工具集](https://github.com/yuchuanwang/perfkit)
    
-   - [缓存 - 局部性](./perf/Locality_of_reference.md)
+   - [缓存 - 局部性](https://github.com/yuchuanwang/docs/blob/main/Performance/Locality_of_reference.md)
    
-   - [缓存 - 伪共享](./perf/False_sharing.md)
+   - [缓存 - 伪共享](https://github.com/yuchuanwang/docs/blob/main/Performance/False_sharing.md)
    
    - 缓存 - 分支预测
    
