@@ -7,10 +7,11 @@ layout: default
 ---
 
 1. 性能相关
+   - [性能分析与测量工具集](https://github.com/yuchuanwang/perfkit)
    
-   - [缓存 - 局部性](./Performance/Locality_of_reference.md)
+   - [缓存 - 局部性](./perf/Locality_of_reference.md)
    
-   - [缓存 - 伪共享](./Performance/False_sharing.md)
+   - [缓存 - 伪共享](./perf/False_sharing.md)
    
    - 缓存 - 分支预测
    
