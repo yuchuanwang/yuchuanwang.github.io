@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: 编程小记
-description: 记录记录
-keyword: "性能优化 CPU缓存 高性能 perf ebpf bcc"
+description: 记录一些工作学习时的代码、工具与思考
+keyword: "性能优化 CPU缓存 高性能 网络 perf ebpf bcc"
 logo: /assets/img/avatar.jpg
 email: yuchuan.wang@gmail.com
 show_downloads: false
