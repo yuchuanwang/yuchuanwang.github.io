@@ -1,12 +1,9 @@
----
-layout: default
----
-
 记录一些笔记和实验，毕竟据说好脑袋不如烂笔头。
 
 ---
 
 1. 性能相关
+
    - [性能分析与测量工具集](https://github.com/yuchuanwang/perfkit)
    
    - [缓存 - 局部性](./perf/Locality_of_reference.md)
