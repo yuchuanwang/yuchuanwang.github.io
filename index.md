@@ -9,9 +9,7 @@
    - [缓存 - 局部性](https://github.com/yuchuanwang/docs/blob/main/Performance/Locality_of_reference.md)
    
    - [缓存 - 伪共享](https://github.com/yuchuanwang/docs/blob/main/Performance/False_sharing.md)
-   
-   - 缓存 - 分支预测
-   
+      
    - 本机网络 Unix Domain Socket
 
 2. 算法相关
