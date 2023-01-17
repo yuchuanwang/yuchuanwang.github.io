@@ -16,11 +16,13 @@
    
    - [细胞分裂问题原创解法](https://github.com/yuchuanwang/docs/blob/main/Algorithm/Cells_count.md)
 
-3. 网络相关
+3. C++杂记
 
-4. eBPF相关
+4. 网络相关
 
-5. [PCPP](https://github.com/yuchuanwang/pcpp) - **P**ython like **CPP**
+5. eBPF相关
+
+6. [PCPP](https://github.com/yuchuanwang/pcpp) - **P**ython like **CPP**
    
    顾名思义，计划试着开发一个类似于Python功能的C++代码库。
    
@@ -31,5 +33,3 @@
    所以大胆的想试着开发一个精简又包括一些常见功能的代码库，功能模仿Python。
    
    具体怎么做，尚在构思中，而且最近也确实没时间没精力……
-
-6. 想起来再补充
