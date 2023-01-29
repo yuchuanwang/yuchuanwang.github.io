@@ -20,6 +20,8 @@
 
    - [C++ lambda表达式](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Lambda.md)
 
+   - [C++ const与指针](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Const_Pointer.md)
+
 4. 网络相关
 
 5. 高并发
