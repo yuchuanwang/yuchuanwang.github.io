@@ -31,6 +31,8 @@
 
    - [Docker容器网络的七种武器](https://github.com/yuchuanwang/docs/blob/main/Network/Docker_Network.md)
  
+   - [基于Ubuntu安装Kubernetes集群指南](https://github.com/yuchuanwang/docs/blob/main/Network/Kubernetes_Installation.md)
+
 
 5. 高并发高可用
 
