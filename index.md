@@ -59,7 +59,7 @@
   
    - [基于ResNet迁移学习和微调，实现图像分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/05_ImageClassificationByResNet.md)
    
-   - LSTM实现文本分类
+   - [基于LSTM实现文本分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/06_CommentClassificationByLSTM.md)
 
 
 7. eBPF相关
