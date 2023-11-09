@@ -57,7 +57,7 @@
 
    - [CNN实现图像分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/04_ImageClassificationByCNN.md)
   
-   - ResNet迁移学习与微调实现图像分类
+   - [基于ResNet迁移学习和微调，实现图像分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/05_ImageClassificationByResNet.md)
    
    - LSTM实现文本分类
 
