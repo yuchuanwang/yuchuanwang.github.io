@@ -66,6 +66,10 @@
    - [基于ResNet迁移学习和微调，实现图像分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/05_ImageClassificationByResNet.md)
    
    - [基于LSTM实现文本分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/06_CommentClassificationByLSTM.md)
+  
+   - [变长验证码识别](https://github.com/yuchuanwang/DeepLearning/blob/main/CaptchaHacker.py) - 这应该是互联网上准确率最高的模型之一了。识别变长的验证码，准确率高达98%以上。
+
+     
 
 
 7. eBPF相关
