@@ -18,6 +18,7 @@
 - [基于LSTM实现文本分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/06_CommentClassificationByLSTM.md)
   
 - [变长验证码识别](https://github.com/yuchuanwang/DeepLearning/blob/main/CaptchaHacker.py)
+
   这应该是互联网上准确率最高的模型(之一)了。谢谢Kaggle的提供的P100 GPU，训练10轮后，识别变长的验证码，准确率可达98.55%
 
   
