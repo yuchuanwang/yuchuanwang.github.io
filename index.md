@@ -2,7 +2,7 @@
 
 ---
 
-1. [**PyTorch从精通到入门**](https://github.com/yuchuanwang/DeepLearning)
+**1.** [**PyTorch从精通到入门**](https://github.com/yuchuanwang/DeepLearning)
   
 
 - [线性回归](https://github.com/yuchuanwang/docs/blob/main/PyTorch/01_LinearRegression.md)
@@ -18,9 +18,10 @@
 - [基于LSTM实现文本分类](https://github.com/yuchuanwang/docs/blob/main/PyTorch/06_CommentClassificationByLSTM.md)
   
 - [变长验证码识别](https://github.com/yuchuanwang/DeepLearning/blob/main/CaptchaHacker.py) - (这应该是互联网上准确率最高的模型(之一)了。识别变长的验证码，训练10轮后，准确率高达98.55%)
+
   
 
-2. **C++杂记**
+**2. C++杂记**
   
 
 - [极简C++ Redis封装](https://github.com/yuchuanwang/RedisClient)
@@ -38,9 +39,10 @@
 - [C语言与C++语言混合编程的方法](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Mix_C.md)
   
 - [gRPC C++快速编译与上手](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_gRPC.md)
+
   
 
-3. **网络相关**
+**3. 网络相关**
   
 
 - [Docker容器网络的七种武器](https://github.com/yuchuanwang/docs/blob/main/Network/Docker_Network.md)
@@ -52,9 +54,10 @@
 - [Kubernetes CNI之Flannel网络模型分析](https://github.com/yuchuanwang/docs/blob/main/Network/Kubernetes_Flannel_Network.md)
   
 - [Ping和ARP流程解析](https://github.com/yuchuanwang/docs/blob/main/Network/Ping_ARP.md)
+
   
 
-4. **性能相关**
+**4. 性能相关**
   
 
 - [性能分析与测量工具集](https://github.com/yuchuanwang/perfkit)
@@ -64,19 +67,22 @@
 - [缓存 - 伪共享](https://github.com/yuchuanwang/docs/blob/main/Performance/False_sharing.md)
   
 
-5. **算法相关**
+
+**5. 算法相关**
   
 
 - [细胞分裂问题原创解法](https://github.com/yuchuanwang/docs/blob/main/Algorithm/Cells_count.md)
   
 
-6. **高并发高可用**
+
+**6. 高并发高可用**
   
 
 - [负载均衡算法及实现](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Load_Balance.md)
   
 
-7. **eBPF/XDP相关**
+
+**7. eBPF/XDP相关**
   
 
 - [ ] Coming soon... ...
