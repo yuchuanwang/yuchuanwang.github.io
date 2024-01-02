@@ -26,7 +26,7 @@
 **2. C++杂记**
   
 
-- [极简C++ Redis封装](https://github.com/yuchuanwang/RedisClient)
+- [极简C++ Redis封装](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Redis.md)
   
 - [C++ lambda表达式](https://github.com/yuchuanwang/docs/blob/main/Cpp/Cpp_Lambda.md)
   
