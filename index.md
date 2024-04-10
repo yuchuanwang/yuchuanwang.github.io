@@ -23,6 +23,8 @@
 
 - [本地运行Microsoft/phi-2模型](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Microsoft-phi-2.md)
 
+- [用OpenAI的API实现基本的ChatGPT](https://github.com/yuchuanwang/docs/blob/main/PyTorch/MiniChatGPT.md)
+
   
 
 **2. C++杂记**
