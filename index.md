@@ -2,7 +2,7 @@
 
 ---
 
-**1.** [**PyTorch从精通到入门**](https://github.com/yuchuanwang/DeepLearning)
+**1.** [**AI**](https://github.com/yuchuanwang/DeepLearning)
   
 
 - [线性回归](https://github.com/yuchuanwang/docs/blob/main/PyTorch/01_LinearRegression.md)
@@ -24,6 +24,8 @@
 - [本地运行Microsoft/phi-2模型](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Microsoft-phi-2.md)
 
 - [用OpenAI的API实现基本的ChatGPT](https://github.com/yuchuanwang/docs/blob/main/PyTorch/MiniChatGPT.md)
+
+- [从零开始训练大语言模型的最佳实践](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Training_LLMs.md)
 
   
 
