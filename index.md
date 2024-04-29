@@ -19,7 +19,7 @@
   
 - [变长验证码识别](https://github.com/yuchuanwang/DeepLearning/blob/main/CaptchaHacker.py)
 
-  这应该是互联网上准确率最高的模型(之一)了。谢谢Kaggle的提供的P100 GPU，训练10轮后，识别变长的验证码，准确率可达98.55%
+  这应该是互联网上准确率最高的模型(之一)了。谢谢Kaggle提供的P100 GPU，训练10轮后，识别变长的验证码，准确率可达98.55%
 
 - [本地运行Microsoft/phi-2模型](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Microsoft-phi-2.md)
 
