@@ -27,7 +27,7 @@
 
 - [从零开始训练大语言模型的最佳实践](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Training_LLMs.md)
 
-- [Llama 3 + LangChain + HugginFace 实现本地部署RAG](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Llama3_RAG.md)
+- [Llama 3 + LangChain + HuggingFace 实现本地部署RAG](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Llama3_RAG.md)
 
   
 
