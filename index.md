@@ -29,7 +29,8 @@
 
 - [Llama 3 + LangChain + HuggingFace 实现本地部署RAG](https://github.com/yuchuanwang/docs/blob/main/PyTorch/Llama3_RAG.md)
 
-  
+- [用PyTorch, Profiler和TensorBoard优化AI训练性能](https://github.com/yuchuanwang/docs/blob/main/Performance/PyTorch_Profiler_TensorBoard.md)
+
 
 **2. C++杂记**
   
