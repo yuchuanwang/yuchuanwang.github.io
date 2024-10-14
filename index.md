@@ -66,6 +66,8 @@
   
 - [Ping和ARP流程解析](https://github.com/yuchuanwang/docs/blob/main/Network/Ping_ARP.md)
 
+- [MPI高性能计算和集合通信编程](https://github.com/yuchuanwang/docs/blob/main/Network/MPI_HPC.md)
+
   
 
 **4. 性能相关**
