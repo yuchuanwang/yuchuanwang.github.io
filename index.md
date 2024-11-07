@@ -95,7 +95,14 @@
   
 
 
-**7. eBPF/XDP相关**
+**7. 其它**
+  
+
+- [Kubernetes Device Plugin开发简介](https://github.com/yuchuanwang/docs/blob/main/Others/dummy_device_plugin.md)
+  
+
+
+**8. eBPF/XDP相关**
   
 
 - [ ] Coming soon... ...
