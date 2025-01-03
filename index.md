@@ -31,6 +31,9 @@
 
 - [用PyTorch, Profiler和TensorBoard优化AI训练性能](https://github.com/yuchuanwang/docs/blob/main/Performance/PyTorch_Profiler_TensorBoard.md)
 
+- [PyTorch中运行时间的测量与对比](https://github.com/yuchuanwang/docs/blob/main/PyTorch/PyTorch_Time_Span.md)
+
+  
 
 **2. C++杂记**
   
