@@ -71,6 +71,8 @@
 
 - [MPI高性能计算和集合通信编程](https://github.com/yuchuanwang/docs/blob/main/Network/MPI_HPC.md)
 
+- [从零实现一个集合通信库：Mini CCL 设计与实现](https://github.com/yuchuanwang/docs/blob/main/Network/mini_ccl.md)
+
   
 
 **4. 性能相关**
